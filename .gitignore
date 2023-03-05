@@ -1,0 +1,14 @@
+##############################
+## Folders                  ##
+##############################
+.vscode
+.plastic
+Logs
+Library
+Temp
+ 
+##############################
+## Netbeans conf            ##
+##############################
+Unity.PlasticSCM.Editor.csproj
+ignore.conf
